@@ -1,0 +1,17 @@
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos
+sistemas operativos y en otros no?.
+R= Un lenguaje de programación puede ser utilizado en algunos sistemas operativos y no en otros debido a varias razones:
+
+- Los lenguajes de programación son desarrollados e implementados por diferentes organizaciones y comunidades. Estas implementaciones pueden estar diseñadas específicamente para funcionar en ciertos sistemas operativos. Por ejemplo, algunos lenguajes de programación están diseñados para funcionar en entornos Windows, mientras que otros están orientados a sistemas operativos Unix o Linux.
+
+- Los lenguajes de programación a menudo dependen de bibliotecas y herramientas específicas del sistema operativo para ejecutarse correctamente. Estas bibliotecas y herramientas pueden no estar disponibles o ser diferentes en diferentes sistemas operativos. Si un lenguaje de programación se basa en bibliotecas o herramientas específicas de un sistema operativo en particular, puede no ser compatible con otros sistemas operativos que no las tengan.
+
+- La arquitectura subyacente de un sistema operativo puede afectar la compatibilidad de un lenguaje de programación. Por ejemplo, si un lenguaje de programación está diseñado específicamente para sistemas operativos de 32 bits, puede no ser compatible con sistemas operativos de 64 bits y viceversa.
+
+¿Qué tipo de máquina virtual es virtualBox?.
+R = VirtualBox es un software para virtualización, tambien conocido como hipervisor de tipo 2, que se utiliza para virtualizar sistemas operativos dentro de nuestro ordenador existente, creando lo que se conoce como máquina virtual. 
+Es de igual manera para Arquitecturas X86/AMD64. VirtualBox utiliza una combinación de tecnologías de virtualización de hardware y software para emular el hardware de una máquina física y permitir que los sistemas operativos invitados se ejecuten como si estuvieran en una máquina física independiente. Proporciona una interfaz gráfica de usuario y herramientas de gestión que permiten crear, configurar y controlar las máquinas virtuales.
+
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las
+demás? ¿por qué?
+R= No, porque son máquinas independientes.
